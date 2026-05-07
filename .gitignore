@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+architecture-notes.md
+CODEX.md
+voice-transcription-model.md
